@@ -22,12 +22,30 @@ const Contribute = () => {
         fulfilling the project’s mission. The PHLASK Cooperative is composed of
         individuals of varying socioeconomic, educational and technical
         backgrounds, and welcomes all individuals to contribute to the project’s
-        mission. Our core operating philosophy, and established norms for
+        mission. 
+      </p>
+
+      <p>
+        Our core operating philosophy, and established norms for
         cooperation, are rooted in transparency, sharing and mentorship. We
         welcome all newcomers to help us uphold these principles and continue
         nurturing the equitable growth and development of all project
         contributors as we work together to create a tool to benefit the public.
       </p>
+
+      <h2>List of Contributors To Date</h2>
+      <p>
+        Since its inception in/around 2017, various contributors have generously contributed their time, effort, and other resources to the PHLASK project. Contributors have mostly participated under divisions called "circles," based on a halocracy philosophy; i.e., decentralized organizational governance via groups or teams. Below are the four major circles of the PHLASK project.
+      </p>
+      <ul>
+        <li> 
+          1--Civic 
+          2--Design
+          3--App-/Web-Development
+          4--Data
+        </li>
+      </ul>
+
     </div>
   );
 };
